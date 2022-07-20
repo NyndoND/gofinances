@@ -5,4 +5,4 @@ Aplicativo simples para controle de entrada e saída de capital, possui login co
 
 # 📲 Apks do projeto 
 
-<a href="https://drive.google.com/drive/folders/1y1D7mpgJK6BDVXOXYrs8dgXyz1p_ZEj6?usp=sharing">Baixe e use agora mesmo!!</a>
+<a href="https://drive.google.com/drive/folders/1y1D7mpgJK6BDVXOXYrs8dgXyz1p_ZEj6">Baixe e use agora mesmo!!</a>
