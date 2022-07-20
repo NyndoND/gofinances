@@ -14,7 +14,7 @@ interface ContainerProps {
 }
 
 export const Container = styled.View`
-  width: 48%
+  width: 48%;
 `;
 
 export const Icon = styled(Feather)<IconProps>`
